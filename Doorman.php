@@ -1,7 +1,7 @@
 <?php
 
 /***********************************************
-  Authors : Huang Hao  2016.3.29 Kunming
+  Authors : Huang Hao  2016.3.29 Kunming Yunnan
   Doorman : roles and permissions chec
   Config files example:
 
