@@ -1,0 +1,17 @@
+{
+    "name": "nndmmd/doorman",
+    "description": "A lite PHP component to manage roles and permissions with config file",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "authors": [
+        {
+            "name": "Huang Hao",
+            "email": "admin@nndmmd.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {"Nndmmd\\Doorman\\": ""}
+    }
+}
