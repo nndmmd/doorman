@@ -1,6 +1,8 @@
 <?php
+
 /***********************************************
-  Doorman : roles and permissions check
+  Authors : Huang Hao  2016.3.29 Kunming
+  Doorman : roles and permissions chec
   Config files example:
 
 permissions.cfg.php:
